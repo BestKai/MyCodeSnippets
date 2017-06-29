@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@pro</string>
+	<string>MARK</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (assign, nonatomic) &lt;#Class#&gt; &lt;#Object#&gt;;</string>
+	<string>//MARK: - ****** &lt;#mark#&gt; ******</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>85982CC9-BEF5-418B-87F8-824D89D9BCA8</string>
+	<string>DC6661B1-1502-4E45-84A5-EBBC7A2231E4</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Pro-assign</string>
+	<string>Swift-Mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
